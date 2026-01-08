@@ -1,4 +1,4 @@
-<!--# Hi, I'm Shrimali 👋
+# Hi, I'm Shrimali 👋
 
 🚀 Site Reliability Engineer | Cloud & DevOps  
 🤖 AI Automation Enthusiast | Python Developer  
