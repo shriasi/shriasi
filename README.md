@@ -1,16 +1,18 @@
-### Hi there 👋
+<!--# Hi, I'm Shrimali 👋
 
-<!--
-**shriasi/shriasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Site Reliability Engineer | Cloud & DevOps  
+🤖 AI Automation Enthusiast | Python Developer  
+🎓 MSc Cyber Security & Forensics (Reading)
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- SRE working with Azure, Kubernetes, Oracle DB
+- Passionate about automation, reliability & AI-driven solutions
+- Building practical AI tools for real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Tech Stack
+- Cloud: Azure | AWS 
+- DevOps: Docker | Kubernetes | GitLab CI
+- Databases: Oracle SQL | NoSQL
+- AI/ML: Python | Ollama | Open-source LLMs
+
+📫 Reach me on LinkedIn
